@@ -1,5 +1,5 @@
 # EmeraldGreenR.github.io
-#### Doki Doki Literature Club web port
+#### Doki Doki Literature Club web port but lightened
 June 1 2023
 
 Works for me in Chrome but not Firefox for some reason, not sure why.
@@ -14,4 +14,4 @@ Also not sure if this is TOS, but I don't think anyone really cares that much an
 - forgot to add mod disclaimer, so I guess I'll just add it here for now: 
 
 This is a Doki Doki Literature Club fan game that is not affiliated with Team Salvato. It is designed to be played only after the official game has been completed. You can download Doki Doki Literature Club at: http://ddlc.moe
-
+lightened version made sow (suitable for work) to fit more audience groups
